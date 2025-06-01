@@ -1,0 +1,24 @@
+{
+  "name": "vtt-to-srt-converter",
+  "version": "1.0.0",
+  "description": "VTT转SRT字幕转换器 - 在线工具",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site, no build needed'",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "vtt",
+    "srt", 
+    "subtitle",
+    "converter",
+    "字幕转换"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
